@@ -1,0 +1,4 @@
+Flask
+praat-parselmouth
+numpy
+scipy

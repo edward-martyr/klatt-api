@@ -1,0 +1,10 @@
+.vscode
+
+.python-version
+venv
+__pycache__
+.mypy_cache
+
+instance
+
+wavs
