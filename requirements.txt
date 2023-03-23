@@ -1,4 +1,8 @@
 Flask
+flask-cors
 praat-parselmouth
 numpy
 scipy
+
+# dev
+uwsgi

@@ -1,0 +1,7 @@
+runtime: python311
+
+entrypoint: uwsgi --http :$PORT --wsgi-file index.py --master --processes 1 --threads 2
+
+handlers:
+  - url: /.*
+    script: auto
